@@ -1,0 +1,33 @@
+city_names,team_names,sos
+Baltimore,Ravens,0.4375
+Dallas,Cowboys,0.45703125
+Pittsburgh,Steelers,0.45703125
+Washington,Redskins,0.4609375
+Cleveland,Browns,0.4609375
+Cincinnati,Bengals,0.4765625
+New York,Giants,0.48046875
+Philadelphia,Eagles,0.484375
+New Orleans,Saints,0.48828125
+Jacksonville,Jaguars,0.4921875
+Los Angeles,Chargers,0.4921875
+Carolina,Panthers,0.49609375
+Tennessee,Titans,0.49609375
+Oakland,Raiders,0.49609375
+Indianapolis,Colts,0.5
+Green Bay,Packers,0.5
+Kansas City,Chiefs,0.5
+Tampa Bay,Buccaneers,0.5
+Seattle,Seahawks,0.50390625
+Chicago,Bears,0.50390625
+Denver,Broncos,0.51171875
+Los Angeles,Rams,0.51171875
+Minnesota,Vikings,0.51171875
+Arizona,Cardinals,0.515625
+Houston,Texans,0.515625
+Atlanta,Falcons,0.5234375
+Buffalo,Bills,0.5234375
+Detroit,Lions,0.5234375
+San Francisco,49ers,0.5234375
+Miami,Dolphins,0.52734375
+New York,Jets,0.53125
+New England,Patriots,0.53515625
