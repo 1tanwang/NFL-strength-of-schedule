@@ -42,7 +42,7 @@ def main():
     df_sos[sos] = df_sos[sos].round(3)
     df_sos = df_sos[["Team", sos, "rank_"+year]]
 
-    print("----- 2020 NFL strength of schedule list -----")
+    print("----- %s NFL strength of schedule list -----".format(year))
     print(df_sos)
 
     file_name = "nfl_strength_of_schedule.csv"
