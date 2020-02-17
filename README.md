@@ -1,8 +1,46 @@
 # NFL-strength-of-schedule
-NFL-strength-of-schedule is an automatic calculator of NFL's new season's strength of schedule. 
+NFL-strength-of-schedule is an automatic calculator of NFL's new season's strength of schedule.
+
+Strength of Schedule is an index showing the difficultiy of one team's schedule in the coming season; the smaller the SoS is, the easier the schedule is.
 
 ## Data Source
-Data are collected from NFL's official website, including the opponents sets and the league standing data for previous season. 
+Data are collected from NFL's official website, including the opponents sets and the league standing data from previous season.
 
 * [LEAGUE STANDINGS 2019](https://www.nfl.com/standings/league/2019/REG)
 * [Opponents Sets 2020](http://www.nfl.com/news/story/0ap3000001093515/article/opponents-for-each-team-set-for-2020-nfl-season)
+
+## Strength of Schedule
+| Team                 | sos_2020 | rank_2020 | sos_2019 | rank_2019 |
+|----------------------|----------|-----------|----------|-----------|
+| Baltimore Ravens     | 0.438    | 1         | 0.488    | 11        |
+| Dallas Cowboys       | 0.457    | 2         | 0.500    | 17        |
+| Pittsburgh Steelers  | 0.457    | 3         | 0.492    | 14        |
+| Washington Redskins  | 0.461    | 4         | 0.465    | 2         |
+| Cleveland Browns     | 0.461    | 5         | 0.480    | 10        |
+| Cincinnati Bengals   | 0.477    | 6         | 0.465    | 1         |
+| New York Giants      | 0.480    | 7         | 0.469    | 5         |
+| Philadelphia Eagles  | 0.484    | 8         | 0.473    | 7         |
+| New Orleans Saints   | 0.488    | 9         | 0.488    | 12        |
+| Jacksonville Jaguars | 0.492    | 10        | 0.531    | 31        |
+| Los Angeles Chargers | 0.492    | 11        | 0.496    | 15        |
+| Carolina Panthers    | 0.496    | 12        | 0.500    | 19        |
+| Tennessee Titans     | 0.496    | 13        | 0.512    | 25        |
+| Oakland Raiders      | 0.496    | 14        | 0.535    | 32        |
+| Indianapolis Colts   | 0.500    | 15        | 0.516    | 27        |
+| Green Bay Packers    | 0.500    | 16        | 0.500    | 18        |
+| Kansas City Chiefs   | 0.500    | 17        | 0.516    | 28        |
+| Tampa Bay Buccaneers | 0.500    | 18        | 0.508    | 23        |
+| Seattle Seahawks     | 0.504    | 19        | 0.473    | 8         |
+| Chicago Bears        | 0.504    | 20        | 0.512    | 24        |
+| Denver Broncos       | 0.512    | 21        | 0.531    | 30        |
+| Los Angeles Rams     | 0.512    | 22        | 0.469    | 3         |
+| Minnesota Vikings    | 0.512    | 23        | 0.508    | 22        |
+| Arizona Cardinals    | 0.516    | 24        | 0.504    | 21        |
+| Houston Texans       | 0.516    | 25        | 0.527    | 29        |
+| Atlanta Falcons      | 0.523    | 26        | 0.516    | 26        |
+| Buffalo Bills        | 0.523    | 27        | 0.477    | 9         |
+| Detroit Lions        | 0.523    | 28        | 0.488    | 13        |
+| San Francisco 49ers  | 0.523    | 29        | 0.504    | 20        |
+| Miami Dolphins       | 0.527    | 30        | 0.496    | 16        |
+| New York Jets        | 0.531    | 31        | 0.469    | 4         |
+| New England Patriots | 0.535    | 32        | 0.469    | 6         |
