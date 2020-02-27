@@ -1,7 +1,7 @@
 # NFL-strength-of-schedule
 NFL-strength-of-schedule is an automatic calculator of NFL's new season's strength of schedule.
 
-Strength of Schedule is an index showing the difficultiy of one team's schedule in the coming season; the smaller the SoS is, the easier the schedule is.
+Strength of Schedule is an index showing the difficultiy of one team's schedule in the coming season; _the smaller the SoS is, the easier the schedule is._
 
 ## Data Source
 Data are collected from NFL's official website, including the opponents sets and the league standing data from previous season.
@@ -10,6 +10,9 @@ Data are collected from NFL's official website, including the opponents sets and
 * [Opponents Sets 2020](http://www.nfl.com/news/story/0ap3000001093515/article/opponents-for-each-team-set-for-2020-nfl-season)
 
 ## Strength of Schedule
+
+The rank of each team is the rank of schedule easiness; _the higher the rank is, the easier the schedule is._
+
 | Team                 | sos_2020 | rank_2020 | sos_2019 | rank_2019 |
 |----------------------|----------|-----------|----------|-----------|
 | Baltimore Ravens     | 0.438    | 1         | 0.488    | 11        |
